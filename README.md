@@ -41,4 +41,8 @@ Further analysis revealed that the hybrid models improved performance metrics an
 <img src="LSTM_Architecture.png">
 <h4>LSTM loss VS number of epochs</h4>
 <img src="LSTM_Loss.png">
+<h4>Transformer Architecture</h4>
+<img src="TransformerArchitecture.png">
+<h4>Transformer loss VS number of epochs</h4>\
+<img src="Transformer_Loss.png">
 
